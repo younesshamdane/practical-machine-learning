@@ -1,8 +1,8 @@
 # practical-machine-learning
 title: 'Peer Graded Assignment: Prediction Assignment Writeup'
-author: "Fredrik Skatland"
-date: "July 13, 2016"
-output: html_document
+author: "HAMDANE YOUNESS"
+date: "J10, 2019"
+
 ---
 
 ```{r setup, include=TRUE}
